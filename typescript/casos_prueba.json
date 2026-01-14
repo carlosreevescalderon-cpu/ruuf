@@ -1,0 +1,48 @@
+{
+  "casosPrueba": [
+    {
+      "panelAncho": 1,
+      "panelAlto": 2,
+      "techoAncho": 2,
+      "techoAlto": 4,
+      "esperado": 4
+    },
+    {
+      "panelAncho": 1,
+      "panelAlto": 2,
+      "techoAncho": 3,
+      "techoAlto": 5,
+      "esperado": 7
+    },
+    {
+      "panelAncho": 2,
+      "panelAlto": 2,
+      "techoAncho": 1,
+      "techoAlto": 10,
+      "esperado": 0
+    }
+  ],
+  "casosPruebaTriangulo": [
+    {
+      "panelAncho": 1,
+      "panelAlto": 1,
+      "trianguloBase": 6,
+      "trianguloAltura": 4,
+      "esperado": 8
+    },
+    {
+      "panelAncho": 2,
+      "panelAlto": 1,
+      "trianguloBase": 10,
+      "trianguloAltura": 5,
+      "esperado": 9
+    },
+    {
+      "panelAncho": 3,
+      "panelAlto": 3,
+      "trianguloBase": 4,
+      "trianguloAltura": 6,
+      "esperado": 0
+    }
+  ]
+}
